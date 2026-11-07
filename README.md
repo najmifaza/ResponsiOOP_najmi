@@ -27,5 +27,3 @@ java -cp out Main
 ## 3. Screenshot Luaran Program
 
 ![Screenshot luaran 1](screenshot/luaran1.png)
-
-![Screenshot luaran 2](screenshot/luaran2.png)
